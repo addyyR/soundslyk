@@ -1,2 +1,2 @@
 # soundslyk
-soundslyk is an song recommender model which can be used to search for similar music
+soundslyk uses spotify database to recommend similar type of songs.
